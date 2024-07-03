@@ -1,5 +1,5 @@
 # metamod-source-plugin
-Template of the [Metamod:Source](https://github.com/alliedmodders/metamod-source) plugin without using the Source SDK
+Template of the [Metamod:Source](https://github.com/alliedmodders/metamod-source) plugin without using the HL2SDK
 
 ## Required packages
 - [metamod-source](https://alliedmodders-meson.github.io/wrapdb/)

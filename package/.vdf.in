@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+    "file"    "@file@"
+    "alias"   "@alias@"
+}

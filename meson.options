@@ -1,0 +1,2 @@
+option('name', type : 'string', value : '', description : 'override plugin name (defaults to project name)')
+option('alias', type : 'string', value : '', description : 'override plugin alias (defaults to plugin name)')
